@@ -1,2 +1,0 @@
-# Range
-Created with CodeSandbox
